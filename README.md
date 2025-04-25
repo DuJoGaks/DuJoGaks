@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am a freshman at Gachon University.
+- 🔭 I am learning on Gachon University, major in Computer Science.
 - 🤔 I am interested in : IoT, Information Security, Indie Games!
-- 🌱 I’m currently learning : C / Python / OpenCV2(sooooooon) / TOEIC
+- 🌱 I’m currently learning : C / Python / Data Structure
 - 📫 How to reach me : kr26790@gmail.com
 <!--
 **DuJoGaks/DuJoGaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
